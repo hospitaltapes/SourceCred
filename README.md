@@ -1,4 +1,4 @@
-# FWB SourceCred Bot
+# FWB SourceCred Instance
 
 This repo comes with a GitHub action configured that will run SourceCred automatically
 every 6 hours, as well as any time you change the configuration.
