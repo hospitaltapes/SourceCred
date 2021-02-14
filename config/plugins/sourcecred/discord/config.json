@@ -1,5 +1,6 @@
 {
   "guildId": "749418486874243212",
+  "defaultWeight": 0,
   "reactionWeights": {
     "FWBUP:810331729268965397": 1,
     "yes-1:810332223391137864": 1
