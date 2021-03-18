@@ -7888,3 +7888,5 @@
 {"action":{"identityId":"iQpeMtodNnhxh2jPv4bq3Q","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1616031113000,"uuid":"ODgwMDRkYeJORedEMWzyNg","version":"1"}
 {"action":{"identityId":"ES6E8oNzyKDltkXsgEQ7fA","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1616031113000,"uuid":"NzgzRelBYjBjMjM0ZojORQ","version":"1"}
 {"action":{"identityId":"lA3UaWPgO6Tm4N8CNOQ0dg","type":"TOGGLE_ACTIVATION"},"ledgerTimestamp":1616031113000,"uuid":"NoVzZ2ozNEE3MjlzMojkZA","version":"1"}
+{"action":{"identity":{"address":"N\u0000sourcecred\u0000core\u0000IDENTITY\u00002RYFdWOuMyTGof4CrGQydA\u0000","aliases":[],"id":"2RYFdWOuMyTGof4CrGQydA","name":"---discord-5","subtype":"USER"},"type":"CREATE_IDENTITY"},"ledgerTimestamp":1616034010111,"uuid":"82WEXJJDT07MVRUZm8VwiA","version":"1"}
+{"action":{"alias":{"address":"N\u0000sourcecred\u0000discord\u0000MEMBER\u0000user\u0000738399249355505664\u0000","description":"discord/&#x6765;&#x590F;#2175"},"identityId":"2RYFdWOuMyTGof4CrGQydA","type":"ADD_ALIAS"},"ledgerTimestamp":1616034010112,"uuid":"YpAFwre1QU9Sy3sa2KDtog","version":"1"}
